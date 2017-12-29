@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\bin\Debug\Cop24_StringClass.exe.config
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\bin\Debug\Cop24_StringClass.exe
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\bin\Debug\Cop24_StringClass.pdb
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\obj\Debug\Cop24_StringClass.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\obj\Debug\Cop24_StringClass.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\obj\Debug\Cop24_StringClass.exe
+D:\Luu tai lieu\C#\Cop24_StringClass\Cop24_StringClass\obj\Debug\Cop24_StringClass.pdb

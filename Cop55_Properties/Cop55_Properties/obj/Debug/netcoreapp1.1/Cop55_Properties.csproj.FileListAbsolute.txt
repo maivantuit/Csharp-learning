@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\bin\Debug\netcoreapp1.1\Cop55_Properties.deps.json
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\bin\Debug\netcoreapp1.1\Cop55_Properties.runtimeconfig.json
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\bin\Debug\netcoreapp1.1\Cop55_Properties.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\bin\Debug\netcoreapp1.1\Cop55_Properties.dll
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\bin\Debug\netcoreapp1.1\Cop55_Properties.pdb
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\obj\Debug\netcoreapp1.1\Cop55_Properties.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\obj\Debug\netcoreapp1.1\Cop55_Properties.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\obj\Debug\netcoreapp1.1\Cop55_Properties.AssemblyInfo.cs
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\obj\Debug\netcoreapp1.1\Cop55_Properties.dll
+D:\Luu tai lieu\C#\Cop55_Properties\Cop55_Properties\obj\Debug\netcoreapp1.1\Cop55_Properties.pdb

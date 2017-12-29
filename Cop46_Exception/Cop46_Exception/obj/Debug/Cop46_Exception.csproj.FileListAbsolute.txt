@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\bin\Debug\Cop46_Exception.exe.config
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\bin\Debug\Cop46_Exception.exe
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\bin\Debug\Cop46_Exception.pdb
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\obj\Debug\Cop46_Exception.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\obj\Debug\Cop46_Exception.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\obj\Debug\Cop46_Exception.exe
+D:\Luu tai lieu\C#\Cop46_Exception\Cop46_Exception\obj\Debug\Cop46_Exception.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\bin\Debug\Cop32_Phamvitruycap.exe.config
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\bin\Debug\Cop32_Phamvitruycap.exe
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\bin\Debug\Cop32_Phamvitruycap.pdb
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\obj\Debug\Cop32_Phamvitruycap.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\obj\Debug\Cop32_Phamvitruycap.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\obj\Debug\Cop32_Phamvitruycap.exe
+C:\Users\PC\source\repos\Cop32_Phamvitruycap\Cop32_Phamvitruycap\obj\Debug\Cop32_Phamvitruycap.pdb

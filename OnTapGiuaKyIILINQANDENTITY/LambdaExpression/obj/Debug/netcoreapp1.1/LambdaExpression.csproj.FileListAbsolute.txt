@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\bin\Debug\netcoreapp1.1\LambdaExpression.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\bin\Debug\netcoreapp1.1\LambdaExpression.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\bin\Debug\netcoreapp1.1\LambdaExpression.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\bin\Debug\netcoreapp1.1\LambdaExpression.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\bin\Debug\netcoreapp1.1\LambdaExpression.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\obj\Debug\netcoreapp1.1\LambdaExpression.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\obj\Debug\netcoreapp1.1\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\obj\Debug\netcoreapp1.1\LambdaExpression.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\obj\Debug\netcoreapp1.1\LambdaExpression.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LambdaExpression\obj\Debug\netcoreapp1.1\LambdaExpression.pdb

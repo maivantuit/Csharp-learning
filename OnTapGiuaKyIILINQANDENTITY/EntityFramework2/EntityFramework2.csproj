@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <StartupObject>EntityFramework2.Program</StartupObject>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+</Project>

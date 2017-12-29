@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\obj\Debug\Cop41_Inheritance.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\obj\Debug\Cop41_Inheritance.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\bin\Debug\Cop41_Inheritance.exe.config
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\bin\Debug\Cop41_Inheritance.exe
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\bin\Debug\Cop41_Inheritance.pdb
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\obj\Debug\Cop41_Inheritance.exe
+D:\Luu tai lieu\C#\Cop41_Inheritance\Cop41_Inheritance\obj\Debug\Cop41_Inheritance.pdb

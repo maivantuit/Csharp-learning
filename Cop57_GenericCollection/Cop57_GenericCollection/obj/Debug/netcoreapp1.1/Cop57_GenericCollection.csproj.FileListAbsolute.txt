@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\bin\Debug\netcoreapp1.1\Cop57_GenericCollection.deps.json
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\bin\Debug\netcoreapp1.1\Cop57_GenericCollection.runtimeconfig.json
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\bin\Debug\netcoreapp1.1\Cop57_GenericCollection.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\bin\Debug\netcoreapp1.1\Cop57_GenericCollection.dll
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\bin\Debug\netcoreapp1.1\Cop57_GenericCollection.pdb
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\obj\Debug\netcoreapp1.1\Cop57_GenericCollection.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\obj\Debug\netcoreapp1.1\Cop57_GenericCollection.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\obj\Debug\netcoreapp1.1\Cop57_GenericCollection.AssemblyInfo.cs
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\obj\Debug\netcoreapp1.1\Cop57_GenericCollection.dll
+D:\Luu tai lieu\C#\Cop57_GenericCollection\Cop57_GenericCollection\obj\Debug\netcoreapp1.1\Cop57_GenericCollection.pdb

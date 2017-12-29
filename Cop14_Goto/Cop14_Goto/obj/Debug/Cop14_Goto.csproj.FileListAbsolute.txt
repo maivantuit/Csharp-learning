@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\bin\Debug\Cop14_Goto.exe.config
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\bin\Debug\Cop14_Goto.exe
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\bin\Debug\Cop14_Goto.pdb
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\obj\Debug\Cop14_Goto.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\obj\Debug\Cop14_Goto.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\obj\Debug\Cop14_Goto.exe
+D:\Luu tai lieu\C#\Cop14_Goto\Cop14_Goto\obj\Debug\Cop14_Goto.pdb

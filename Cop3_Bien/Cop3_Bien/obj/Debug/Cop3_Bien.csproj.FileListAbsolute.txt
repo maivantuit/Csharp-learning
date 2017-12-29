@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\bin\Debug\Cop3_Bien.exe.config
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\bin\Debug\Cop3_Bien.exe
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\bin\Debug\Cop3_Bien.pdb
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\obj\Debug\Cop3_Bien.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\obj\Debug\Cop3_Bien.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\obj\Debug\Cop3_Bien.exe
+D:\Luu tai lieu\C#\Cop3_Bien\Cop3_Bien\obj\Debug\Cop3_Bien.pdb

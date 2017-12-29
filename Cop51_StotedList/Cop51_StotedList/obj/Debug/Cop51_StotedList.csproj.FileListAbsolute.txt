@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\bin\Debug\Cop51_StotedList.exe.config
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\bin\Debug\Cop51_StotedList.exe
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\bin\Debug\Cop51_StotedList.pdb
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\obj\Debug\Cop51_StotedList.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\obj\Debug\Cop51_StotedList.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\obj\Debug\Cop51_StotedList.exe
+D:\Luu tai lieu\C#\Cop51_StotedList\Cop51_StotedList\obj\Debug\Cop51_StotedList.pdb

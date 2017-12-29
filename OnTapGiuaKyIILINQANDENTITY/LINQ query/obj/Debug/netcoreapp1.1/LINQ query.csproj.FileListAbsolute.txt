@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\bin\Debug\netcoreapp1.1\LINQ query.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\bin\Debug\netcoreapp1.1\LINQ query.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\bin\Debug\netcoreapp1.1\LINQ query.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\bin\Debug\netcoreapp1.1\LINQ query.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\bin\Debug\netcoreapp1.1\LINQ query.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\obj\Debug\netcoreapp1.1\LINQ query.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\obj\Debug\netcoreapp1.1\LINQ query.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\obj\Debug\netcoreapp1.1\LINQ query.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\obj\Debug\netcoreapp1.1\LINQ query.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ query\obj\Debug\netcoreapp1.1\LINQ query.pdb

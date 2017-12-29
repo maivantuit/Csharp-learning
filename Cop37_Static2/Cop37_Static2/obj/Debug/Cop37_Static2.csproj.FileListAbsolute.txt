@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\bin\Debug\Cop37_Static2.exe.config
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\bin\Debug\Cop37_Static2.exe
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\bin\Debug\Cop37_Static2.pdb
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\obj\Debug\Cop37_Static2.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\obj\Debug\Cop37_Static2.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\obj\Debug\Cop37_Static2.exe
+D:\Luu tai lieu\C#\Cop37_Static2\Cop37_Static2\obj\Debug\Cop37_Static2.pdb

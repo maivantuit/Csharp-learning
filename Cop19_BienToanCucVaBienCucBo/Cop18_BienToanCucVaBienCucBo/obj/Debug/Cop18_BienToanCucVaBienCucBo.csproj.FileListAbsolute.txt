@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.exe.config
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.exe
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.pdb
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.exe
+C:\Users\PC\source\repos\Cop18_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.pdb
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.exe.config
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.exe
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\bin\Debug\Cop18_BienToanCucVaBienCucBo.pdb
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.exe
+D:\Luu tai lieu\C#\Cop19_BienToanCucVaBienCucBo\Cop18_BienToanCucVaBienCucBo\obj\Debug\Cop18_BienToanCucVaBienCucBo.pdb

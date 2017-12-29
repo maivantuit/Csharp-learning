@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\bin\Debug\netcoreapp1.1\Cop56_Generic.deps.json
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\bin\Debug\netcoreapp1.1\Cop56_Generic.runtimeconfig.json
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\bin\Debug\netcoreapp1.1\Cop56_Generic.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\bin\Debug\netcoreapp1.1\Cop56_Generic.dll
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\bin\Debug\netcoreapp1.1\Cop56_Generic.pdb
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\obj\Debug\netcoreapp1.1\Cop56_Generic.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\obj\Debug\netcoreapp1.1\Cop56_Generic.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\obj\Debug\netcoreapp1.1\Cop56_Generic.AssemblyInfo.cs
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\obj\Debug\netcoreapp1.1\Cop56_Generic.dll
+D:\Luu tai lieu\C#\Cop56_Generic\Cop56_Generic\obj\Debug\netcoreapp1.1\Cop56_Generic.pdb

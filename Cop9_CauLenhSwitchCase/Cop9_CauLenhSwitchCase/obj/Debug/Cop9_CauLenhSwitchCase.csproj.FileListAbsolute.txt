@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.pdb
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.exe.config
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.exe
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\bin\Debug\Cop9_CauLenhSwitchCase.pdb
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.exe
+D:\Luu tai lieu\C#\Cop9_CauLenhSwitchCase\Cop9_CauLenhSwitchCase\obj\Debug\Cop9_CauLenhSwitchCase.pdb

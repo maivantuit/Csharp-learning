@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\bin\Debug\Cop25_Structure.exe.config
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\bin\Debug\Cop25_Structure.exe
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\bin\Debug\Cop25_Structure.pdb
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\obj\Debug\Cop25_Structure.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\obj\Debug\Cop25_Structure.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\obj\Debug\Cop25_Structure.exe
+D:\Luu tai lieu\C#\Cop25_Structure\Cop25_Structure\obj\Debug\Cop25_Structure.pdb

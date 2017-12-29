@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\bin\Debug\Cop35_Inheritance.exe.config
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\bin\Debug\Cop35_Inheritance.exe
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\bin\Debug\Cop35_Inheritance.pdb
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\obj\Debug\Cop35_Inheritance.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\obj\Debug\Cop35_Inheritance.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\obj\Debug\Cop35_Inheritance.exe
+D:\Luu tai lieu\C#\Cop35_Inheritance\Cop35_Inheritance\obj\Debug\Cop35_Inheritance.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\bin\Debug\Cop12_TuKhoaDynamic.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\bin\Debug\Cop12_TuKhoaDynamic.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\bin\Debug\Cop12_TuKhoaDynamic.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\obj\Debug\Cop12_TuKhoaDynamic.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\obj\Debug\Cop12_TuKhoaDynamic.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop12_TuKhoaDynamic\Cop12_TuKhoaDynamic\obj\Debug\Cop12_TuKhoaDynamic.pdb

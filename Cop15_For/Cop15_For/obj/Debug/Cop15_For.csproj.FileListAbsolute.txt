@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\bin\Debug\Cop15_For.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\bin\Debug\Cop15_For.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\bin\Debug\Cop15_For.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\obj\Debug\Cop15_For.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\obj\Debug\Cop15_For.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\obj\Debug\Cop15_For.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop15_For\Cop15_For\obj\Debug\Cop15_For.pdb

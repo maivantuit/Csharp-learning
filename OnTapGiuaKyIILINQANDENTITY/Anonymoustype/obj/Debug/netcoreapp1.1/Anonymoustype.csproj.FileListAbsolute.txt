@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\bin\Debug\netcoreapp1.1\Anonymoustype.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\bin\Debug\netcoreapp1.1\Anonymoustype.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\bin\Debug\netcoreapp1.1\Anonymoustype.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\bin\Debug\netcoreapp1.1\Anonymoustype.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\bin\Debug\netcoreapp1.1\Anonymoustype.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\obj\Debug\netcoreapp1.1\Anonymoustype.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\obj\Debug\netcoreapp1.1\Anonymoustype.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\obj\Debug\netcoreapp1.1\Anonymoustype.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\obj\Debug\netcoreapp1.1\Anonymoustype.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\Anonymoustype\obj\Debug\netcoreapp1.1\Anonymoustype.pdb

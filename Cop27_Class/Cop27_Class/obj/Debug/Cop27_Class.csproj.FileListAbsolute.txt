@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\bin\Debug\Cop27_Class.exe.config
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\bin\Debug\Cop27_Class.exe
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\bin\Debug\Cop27_Class.pdb
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\obj\Debug\Cop27_Class.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\obj\Debug\Cop27_Class.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\obj\Debug\Cop27_Class.exe
+D:\Luu tai lieu\C#\Cop27_Class\Cop27_Class\obj\Debug\Cop27_Class.pdb

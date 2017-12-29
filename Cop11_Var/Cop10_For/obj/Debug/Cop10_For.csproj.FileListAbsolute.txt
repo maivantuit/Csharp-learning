@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\bin\Debug\Cop10_For.exe.config
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\bin\Debug\Cop10_For.exe
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\bin\Debug\Cop10_For.pdb
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\obj\Debug\Cop10_For.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\obj\Debug\Cop10_For.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\obj\Debug\Cop10_For.exe
+D:\Luu tai lieu\C#\Cop11_Var\Cop10_For\obj\Debug\Cop10_For.pdb

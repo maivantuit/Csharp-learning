@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\bin\Debug\Cop54_Event.exe.config
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\bin\Debug\Cop54_Event.exe
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\bin\Debug\Cop54_Event.pdb
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\obj\Debug\Cop54_Event.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\obj\Debug\Cop54_Event.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\obj\Debug\Cop54_Event.exe
+D:\Luu tai lieu\C#\Cop54_Event\Cop54_Event\obj\Debug\Cop54_Event.pdb

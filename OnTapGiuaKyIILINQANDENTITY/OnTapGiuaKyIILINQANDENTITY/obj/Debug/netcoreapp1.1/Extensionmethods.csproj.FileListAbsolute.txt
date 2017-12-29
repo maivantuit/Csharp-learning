@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\bin\Debug\netcoreapp1.1\Extensionmethods.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\bin\Debug\netcoreapp1.1\Extensionmethods.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\bin\Debug\netcoreapp1.1\Extensionmethods.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\bin\Debug\netcoreapp1.1\Extensionmethods.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\bin\Debug\netcoreapp1.1\Extensionmethods.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\obj\Debug\netcoreapp1.1\Extensionmethods.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\obj\Debug\netcoreapp1.1\Extensionmethods.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\obj\Debug\netcoreapp1.1\Extensionmethods.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\obj\Debug\netcoreapp1.1\Extensionmethods.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\OnTapGiuaKyIILINQANDENTITY\obj\Debug\netcoreapp1.1\Extensionmethods.pdb

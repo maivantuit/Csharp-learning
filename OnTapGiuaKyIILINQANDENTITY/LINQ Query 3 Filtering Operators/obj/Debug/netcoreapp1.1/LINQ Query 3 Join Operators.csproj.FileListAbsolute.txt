@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Join Operators.pdb

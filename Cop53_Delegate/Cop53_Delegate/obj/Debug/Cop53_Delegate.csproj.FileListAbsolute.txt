@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\bin\Debug\Cop53_Delegate.exe.config
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\bin\Debug\Cop53_Delegate.exe
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\bin\Debug\Cop53_Delegate.pdb
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\obj\Debug\Cop53_Delegate.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\obj\Debug\Cop53_Delegate.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\obj\Debug\Cop53_Delegate.exe
+D:\Luu tai lieu\C#\Cop53_Delegate\Cop53_Delegate\obj\Debug\Cop53_Delegate.pdb

@@ -1,0 +1,6 @@
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\bin\Debug\Cop17_DoWhile.exe.config
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\bin\Debug\Cop17_DoWhile.exe
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\bin\Debug\Cop17_DoWhile.pdb
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\obj\Debug\Cop17_DoWhile.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\obj\Debug\Cop17_DoWhile.exe
+D:\Luu tai lieu\C#\Cop17_DoWhile\Cop17_DoWhile\obj\Debug\Cop17_DoWhile.pdb

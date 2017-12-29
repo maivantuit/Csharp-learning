@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\bin\Debug\Cop7_EpKieu.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\bin\Debug\Cop7_EpKieu.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\bin\Debug\Cop7_EpKieu.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\obj\Debug\Cop7_EpKieu.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\obj\Debug\Cop7_EpKieu.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\obj\Debug\Cop7_EpKieu.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop7_EpKieu\Cop7_EpKieu\obj\Debug\Cop7_EpKieu.pdb

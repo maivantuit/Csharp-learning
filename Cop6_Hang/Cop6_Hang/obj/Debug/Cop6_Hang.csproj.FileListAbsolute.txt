@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\obj\Debug\Cop6_Hang.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\obj\Debug\Cop6_Hang.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\bin\Debug\Cop6_Hang.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\bin\Debug\Cop6_Hang.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\bin\Debug\Cop6_Hang.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\obj\Debug\Cop6_Hang.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Cop6_Hang\Cop6_Hang\obj\Debug\Cop6_Hang.pdb

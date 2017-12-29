@@ -1,0 +1,6 @@
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\bin\Debug\Cop29_Class3.exe.config
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\bin\Debug\Cop29_Class3.exe
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\bin\Debug\Cop29_Class3.pdb
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\obj\Debug\Cop29_Class3.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\obj\Debug\Cop29_Class3.exe
+D:\Luu tai lieu\C#\Cop29_Class3\Cop29_Class3\obj\Debug\Cop29_Class3.pdb

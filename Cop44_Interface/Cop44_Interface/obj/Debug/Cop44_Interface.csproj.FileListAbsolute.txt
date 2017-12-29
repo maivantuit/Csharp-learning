@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.exe.config
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.exe
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.pdb
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.exe
+C:\Users\PC\source\repos\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.pdb
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.exe.config
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.exe
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\bin\Debug\Cop44_Interface.pdb
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.exe
+D:\Luu tai lieu\C#\Cop44_Interface\Cop44_Interface\obj\Debug\Cop44_Interface.pdb

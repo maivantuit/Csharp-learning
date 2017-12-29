@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\bin\Debug\Cop33_PhuongThucTruyCap.exe.config
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\bin\Debug\Cop33_PhuongThucTruyCap.exe
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\bin\Debug\Cop33_PhuongThucTruyCap.pdb
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\obj\Debug\Cop33_PhuongThucTruyCap.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\obj\Debug\Cop33_PhuongThucTruyCap.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\obj\Debug\Cop33_PhuongThucTruyCap.exe
+C:\Users\PC\source\repos\Cop33_PhuongThucTruyCap\Cop33_PhuongThucTruyCap\obj\Debug\Cop33_PhuongThucTruyCap.pdb

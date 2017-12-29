@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\bin\Debug\Cop47_Exception2.exe.config
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\bin\Debug\Cop47_Exception2.exe
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\bin\Debug\Cop47_Exception2.pdb
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\obj\Debug\Cop47_Exception2.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\obj\Debug\Cop47_Exception2.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\obj\Debug\Cop47_Exception2.exe
+D:\Luu tai lieu\C#\Cop47_Exception2\Cop47_Exception2\obj\Debug\Cop47_Exception2.pdb

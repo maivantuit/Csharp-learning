@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\bin\Debug\Cop16_While.exe.config
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\bin\Debug\Cop16_While.exe
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\bin\Debug\Cop16_While.pdb
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\obj\Debug\Cop16_While.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\obj\Debug\Cop16_While.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\obj\Debug\Cop16_While.exe
+D:\Luu tai lieu\C#\Cop16_While\Cop16_While\obj\Debug\Cop16_While.pdb

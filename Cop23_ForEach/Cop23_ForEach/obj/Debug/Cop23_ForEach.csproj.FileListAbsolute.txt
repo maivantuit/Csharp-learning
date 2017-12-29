@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\bin\Debug\Cop23_ForEach.exe.config
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\bin\Debug\Cop23_ForEach.exe
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\bin\Debug\Cop23_ForEach.pdb
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\obj\Debug\Cop23_ForEach.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\obj\Debug\Cop23_ForEach.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\obj\Debug\Cop23_ForEach.exe
+D:\Luu tai lieu\C#\Cop23_ForEach\Cop23_ForEach\obj\Debug\Cop23_ForEach.pdb

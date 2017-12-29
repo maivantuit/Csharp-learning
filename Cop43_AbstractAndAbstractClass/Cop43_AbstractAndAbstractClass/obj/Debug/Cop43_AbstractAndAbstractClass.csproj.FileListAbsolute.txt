@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\bin\Debug\Cop43_AbstractAndAbstractClass.exe.config
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\bin\Debug\Cop43_AbstractAndAbstractClass.exe
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\bin\Debug\Cop43_AbstractAndAbstractClass.pdb
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\obj\Debug\Cop43_AbstractAndAbstractClass.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\obj\Debug\Cop43_AbstractAndAbstractClass.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\obj\Debug\Cop43_AbstractAndAbstractClass.exe
+D:\Luu tai lieu\C#\Cop43_AbstractAndAbstractClass\Cop43_AbstractAndAbstractClass\obj\Debug\Cop43_AbstractAndAbstractClass.pdb

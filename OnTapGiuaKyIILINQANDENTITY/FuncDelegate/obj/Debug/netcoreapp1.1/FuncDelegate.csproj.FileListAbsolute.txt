@@ -1,0 +1,10 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\bin\Debug\netcoreapp1.1\FuncDelegate.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\bin\Debug\netcoreapp1.1\FuncDelegate.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\bin\Debug\netcoreapp1.1\FuncDelegate.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\bin\Debug\netcoreapp1.1\FuncDelegate.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\bin\Debug\netcoreapp1.1\FuncDelegate.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\obj\Debug\netcoreapp1.1\FuncDelegate.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\obj\Debug\netcoreapp1.1\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\obj\Debug\netcoreapp1.1\FuncDelegate.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\obj\Debug\netcoreapp1.1\FuncDelegate.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\FuncDelegate\obj\Debug\netcoreapp1.1\FuncDelegate.pdb

@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\bin\Debug\Cop42_Polymorphism.exe.config
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\bin\Debug\Cop42_Polymorphism.exe
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\bin\Debug\Cop42_Polymorphism.pdb
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\obj\Debug\Cop42_Polymorphism.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\obj\Debug\Cop42_Polymorphism.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\obj\Debug\Cop42_Polymorphism.exe
+D:\Luu tai lieu\C#\Cop42_Polymorphism\Cop42_Polymorphism\obj\Debug\Cop42_Polymorphism.pdb

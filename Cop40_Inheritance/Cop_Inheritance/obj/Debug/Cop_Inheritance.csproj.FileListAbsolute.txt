@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.exe.config
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.exe
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.pdb
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.exe
+C:\Users\PC\source\repos\Cop_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.pdb
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.exe.config
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.exe
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\bin\Debug\Cop_Inheritance.pdb
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.exe
+D:\Luu tai lieu\C#\Cop40_Inheritance\Cop_Inheritance\obj\Debug\Cop_Inheritance.pdb

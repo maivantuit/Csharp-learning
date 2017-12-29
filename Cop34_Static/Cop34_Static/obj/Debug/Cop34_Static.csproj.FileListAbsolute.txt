@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\bin\Debug\Cop34_Static.exe.config
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\bin\Debug\Cop34_Static.exe
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\bin\Debug\Cop34_Static.pdb
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\obj\Debug\Cop34_Static.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\obj\Debug\Cop34_Static.exe
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\obj\Debug\Cop34_Static.pdb
+D:\Luu tai lieu\C#\Cop34_Static\Cop34_Static\obj\Debug\Cop34_Static.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\bin\Debug\Cop28_Class2.exe.config
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\bin\Debug\Cop28_Class2.exe
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\bin\Debug\Cop28_Class2.pdb
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\obj\Debug\Cop28_Class2.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\obj\Debug\Cop28_Class2.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\obj\Debug\Cop28_Class2.exe
+D:\Luu tai lieu\C#\Cop28_Class2\Cop28_Class2\obj\Debug\Cop28_Class2.pdb

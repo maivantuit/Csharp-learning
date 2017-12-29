@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\bin\Debug\Cop8_CauLenhIFELSE.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\bin\Debug\Cop8_CauLenhIFELSE.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\bin\Debug\Cop8_CauLenhIFELSE.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\obj\Debug\Cop8_CauLenhIFELSE.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\obj\Debug\Cop8_CauLenhIFELSE.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\obj\Debug\Cop8_CauLenhIFELSE.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop8_CauLenhIFELSE\Cop8_CauLenhIFELSE\obj\Debug\Cop8_CauLenhIFELSE.pdb

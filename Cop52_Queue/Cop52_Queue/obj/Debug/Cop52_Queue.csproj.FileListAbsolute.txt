@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\bin\Debug\Cop52_Queue.exe.config
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\bin\Debug\Cop52_Queue.exe
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\bin\Debug\Cop52_Queue.pdb
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\obj\Debug\Cop52_Queue.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\obj\Debug\Cop52_Queue.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\obj\Debug\Cop52_Queue.exe
+D:\Luu tai lieu\C#\Cop52_Queue\Cop52_Queue\obj\Debug\Cop52_Queue.pdb

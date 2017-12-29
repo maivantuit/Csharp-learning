@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.exe.config
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.exe
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.pdb
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.exe
+C:\Users\PC\source\repos\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.pdb
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.exe.config
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.exe
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\bin\Debug\Cop20_TuKhoaRefVaOut.pdb
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.exe
+D:\Luu tai lieu\C#\Cop20_TuKhoaRefVaOut\Cop20_TuKhoaRefVaOut\obj\Debug\Cop20_TuKhoaRefVaOut.pdb

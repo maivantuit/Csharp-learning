@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\bin\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.exe.config
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\bin\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.exe
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\bin\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.pdb
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\obj\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\obj\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\obj\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.exe
+D:\Luu tai lieu\C#\Cop1_Cau_Truc_Lenh_Co_Ban\Cop1_Cau_Truc_Lenh_Co_Ban\obj\Debug\Cop1_Cau_Truc_Lenh_Co_Ban.pdb

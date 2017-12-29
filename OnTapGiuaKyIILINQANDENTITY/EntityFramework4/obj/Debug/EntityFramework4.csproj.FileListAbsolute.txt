@@ -1,0 +1,11 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework4.exe.config
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework4.exe
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework4.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\obj\Debug\EntityFramework4.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\obj\Debug\EntityFramework4.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\obj\Debug\EntityFramework4.exe
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\obj\Debug\EntityFramework4.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework.SqlServer.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework.xml
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\EntityFramework4\bin\Debug\EntityFramework.SqlServer.xml

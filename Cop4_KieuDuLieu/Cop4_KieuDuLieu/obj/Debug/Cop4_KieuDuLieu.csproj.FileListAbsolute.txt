@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\bin\Debug\Cop4_KieuDuLieu.exe.config
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\bin\Debug\Cop4_KieuDuLieu.exe
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\bin\Debug\Cop4_KieuDuLieu.pdb
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\obj\Debug\Cop4_KieuDuLieu.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\obj\Debug\Cop4_KieuDuLieu.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\obj\Debug\Cop4_KieuDuLieu.exe
+D:\Luu tai lieu\C#\Cop4_KieuDuLieu\Cop4_KieuDuLieu\obj\Debug\Cop4_KieuDuLieu.pdb

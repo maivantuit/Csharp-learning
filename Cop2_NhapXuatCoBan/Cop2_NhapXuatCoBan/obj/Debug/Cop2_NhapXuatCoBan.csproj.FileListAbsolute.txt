@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\obj\Debug\Cop2_NhapXuatCoBan.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\bin\Debug\Cop2_NhapXuatCoBan.exe.config
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\bin\Debug\Cop2_NhapXuatCoBan.exe
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\bin\Debug\Cop2_NhapXuatCoBan.pdb
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\obj\Debug\Cop2_NhapXuatCoBan.exe
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\obj\Debug\Cop2_NhapXuatCoBan.pdb
+D:\Luu tai lieu\C#\Cop2_NhapXuatCoBan\Cop2_NhapXuatCoBan\obj\Debug\Cop2_NhapXuatCoBan.csprojResolveAssemblyReference.cache

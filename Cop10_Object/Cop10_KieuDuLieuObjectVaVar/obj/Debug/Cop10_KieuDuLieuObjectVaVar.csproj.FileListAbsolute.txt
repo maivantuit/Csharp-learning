@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\bin\Debug\Cop10_KieuDuLieuObjectVaVar.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\bin\Debug\Cop10_KieuDuLieuObjectVaVar.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\bin\Debug\Cop10_KieuDuLieuObjectVaVar.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\obj\Debug\Cop10_KieuDuLieuObjectVaVar.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\obj\Debug\Cop10_KieuDuLieuObjectVaVar.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\obj\Debug\Cop10_KieuDuLieuObjectVaVar.exe
+c:\users\pc\documents\visual studio 2017\Projects\Cop10_KieuDuLieuObjectVaVar\Cop10_KieuDuLieuObjectVaVar\obj\Debug\Cop10_KieuDuLieuObjectVaVar.pdb

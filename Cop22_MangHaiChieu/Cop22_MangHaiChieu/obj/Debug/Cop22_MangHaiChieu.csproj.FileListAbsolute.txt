@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\bin\Debug\Cop22_MangHaiChieu.exe.config
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\bin\Debug\Cop22_MangHaiChieu.exe
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\bin\Debug\Cop22_MangHaiChieu.pdb
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\obj\Debug\Cop22_MangHaiChieu.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\obj\Debug\Cop22_MangHaiChieu.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\obj\Debug\Cop22_MangHaiChieu.exe
+D:\Luu tai lieu\C#\Cop22_MangHaiChieu\Cop22_MangHaiChieu\obj\Debug\Cop22_MangHaiChieu.pdb

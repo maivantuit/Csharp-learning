@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\bin\Debug\Cop26_Enum.exe.config
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\bin\Debug\Cop26_Enum.exe
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\bin\Debug\Cop26_Enum.pdb
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\obj\Debug\Cop26_Enum.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\obj\Debug\Cop26_Enum.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\obj\Debug\Cop26_Enum.exe
+D:\Luu tai lieu\C#\Cop26_Enum\Cop26_Enum\obj\Debug\Cop26_Enum.pdb

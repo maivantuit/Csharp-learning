@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\bin\Debug\Cop5_ToanTu.exe.config
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\bin\Debug\Cop5_ToanTu.exe
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\bin\Debug\Cop5_ToanTu.pdb
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\obj\Debug\Cop5_ToanTu.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\obj\Debug\Cop5_ToanTu.exe
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\obj\Debug\Cop5_ToanTu.pdb
+D:\Luu tai lieu\C#\Cop5_ToanTu\Cop5_ToanTu\obj\Debug\Cop5_ToanTu.csprojResolveAssemblyReference.cache

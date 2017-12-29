@@ -1,0 +1,9 @@
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.deps.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.runtimeconfig.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.runtimeconfig.dev.json
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\bin\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.pdb
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.AssemblyInfo.cs
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.dll
+D:\Luu tai lieu\C#\OnTapGiuaKyIILINQANDENTITY\LINQ Query 3 Filtering Operators\obj\Debug\netcoreapp1.1\LINQ Query 3 Filtering Operators.pdb

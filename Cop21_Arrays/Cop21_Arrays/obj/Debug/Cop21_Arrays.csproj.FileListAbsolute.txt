@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\bin\Debug\Cop21_Arrays.exe.config
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\bin\Debug\Cop21_Arrays.exe
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\bin\Debug\Cop21_Arrays.pdb
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\obj\Debug\Cop21_Arrays.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\obj\Debug\Cop21_Arrays.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\obj\Debug\Cop21_Arrays.exe
+D:\Luu tai lieu\C#\Cop21_Arrays\Cop21_Arrays\obj\Debug\Cop21_Arrays.pdb

@@ -1,0 +1,7 @@
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\bin\Debug\Cop53_Stack.exe.config
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\bin\Debug\Cop53_Stack.exe
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\bin\Debug\Cop53_Stack.pdb
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\obj\Debug\Cop53_Stack.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\obj\Debug\Cop53_Stack.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\obj\Debug\Cop53_Stack.exe
+D:\Luu tai lieu\C#\Cop53_Stack\Cop53_Stack\obj\Debug\Cop53_Stack.pdb
